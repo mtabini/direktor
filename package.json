@@ -1,0 +1,20 @@
+{
+  "name": "direktor",
+  "version": "0.5.0",
+  "author": "Marco Tabini <marcot@tabini.ca>",
+  "description": "Executes SSH commands on multiple servers in parallel",
+  "contributors": [],
+  "main" : "./lib/index.js",
+  "dependencies" : {
+    "async"  :  ">=0.2.8",
+    "ssh2" : ">=0.2.5",
+    "bunyan" : ">=0.21.1"
+  },
+  "keywords" : ["ssh", "ssh2", "cluster", "command", "deployment", "firewall", "remote"],
+  "engines": {
+    "node": ">=0.8.7"
+  },
+  "repository" : { "type" : "git" , "url" : "http://github.com/mtabini/direktor.git" },
+  "licenses": [ { "type": "MIT", "url": "http://github.com/mtabini/direktor/raw/master/LICENSE" } ]
+}
+
