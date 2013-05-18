@@ -1,6 +1,6 @@
 {
   "name": "direktor",
-  "version": "0.5.2",
+  "version": "0.6",
   "author": "Marco Tabini <marcot@tabini.ca>",
   "description": "Executes SSH commands on multiple servers in parallel",
   "contributors": [],
