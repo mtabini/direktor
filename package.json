@@ -1,9 +1,9 @@
 {
   "name": "direktor",
-  "version": "0.6",
+  "version": "0.6.1",
   "author": "Marco Tabini <marcot@tabini.ca>",
   "description": "Executes SSH commands on multiple servers in parallel",
-  "contributors": [],
+  "contributors": ["Victor Gama <hey@vito.io>"],
   "main" : "./lib/index.js",
   "dependencies" : {
     "async"  :  ">=0.2.8",
